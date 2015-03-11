@@ -1,0 +1,1 @@
+ssh -i ~/.ssh/imbisil_key.pem ubuntu@ec2-52-11-127-187.us-west-2.compute.amazonaws.com
